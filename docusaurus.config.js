@@ -13,10 +13,14 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
+//      hideOnScroll: true,
+//      style: 'primary', // primary || dark      
       title: 'The Tech Troll Tube',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'The Tech Troll Tube Logo',
+//        src: 'img/logo.svg',
+        src: 'img/TheTechTrollTube-R.png',
+        srcDark: 'img/TheTechTrollTube-R.png',  
       },
       items: [
         {

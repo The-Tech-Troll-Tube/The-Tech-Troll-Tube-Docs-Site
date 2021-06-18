@@ -8,7 +8,7 @@ module.exports = {
   baseUrl: '/The-Tech-Troll-Tube-Docs-Site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/TheTechTrollTube-R.png',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {

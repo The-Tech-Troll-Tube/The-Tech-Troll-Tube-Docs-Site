@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>My Site Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
-        <description>My Site Blog</description>
+        <title>The Tech Troll Tube Blog</title>
+        <link>https://the-tech-troll-tube.github.io/The-Tech-Troll-Tube-Docs-Site/docs/tutorial-basics/create-a-page/blog</link>
+        <description>The Tech Troll Tube Blog</description>
         <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://your-docusaurus-test-site.com/The-Tech-Troll-Tube-Docs-Site/blog/welcome</link>
+            <link>https://the-tech-troll-tube.github.io/The-Tech-Troll-Tube-Docs-Site/docs/tutorial-basics/create-a-page/The-Tech-Troll-Tube-Docs-Site/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
         </item>
         <item>
             <title><![CDATA[Hello]]></title>
-            <link>https://your-docusaurus-test-site.com/The-Tech-Troll-Tube-Docs-Site/blog/hello-world</link>
+            <link>https://the-tech-troll-tube.github.io/The-Tech-Troll-Tube-Docs-Site/docs/tutorial-basics/create-a-page/The-Tech-Troll-Tube-Docs-Site/blog/hello-world</link>
             <guid>hello-world</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
         </item>
         <item>
             <title><![CDATA[Hola]]></title>
-            <link>https://your-docusaurus-test-site.com/The-Tech-Troll-Tube-Docs-Site/blog/hola</link>
+            <link>https://the-tech-troll-tube.github.io/The-Tech-Troll-Tube-Docs-Site/docs/tutorial-basics/create-a-page/The-Tech-Troll-Tube-Docs-Site/blog/hola</link>
             <guid>hola</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>

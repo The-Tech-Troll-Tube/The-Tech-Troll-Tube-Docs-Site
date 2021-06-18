@@ -52,17 +52,17 @@ module.exports = {
         label: 'TECH-VIDEOS',
         position: 'right', // or 'left'
         items: [
-          {
-            label: 'HOME',
-            to: '/',
-          },
+          // {
+          //   label: 'HOME',
+          //   to: '/',
+          // },
            {
              label: 'Introduction ➤',
               to: '/docs/intro',             
            },
             {
-              label: 'Products ➤',
-              to: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',
+              label: 'Products[LINK CHECK] ➤',
+              href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',
             },
           {
             label: ' Cloud ➤',

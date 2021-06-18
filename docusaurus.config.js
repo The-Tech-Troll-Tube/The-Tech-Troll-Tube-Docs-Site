@@ -12,6 +12,16 @@ module.exports = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
+    hideableSidebar: true,
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+      switchConfig: {
+        darkIcon: '\u{26c8}',
+        lightIcon: '\u{1f324}',
+      },
+    },      
     navbar: {
 //      hideOnScroll: true,
 //      style: 'primary', // primary || dark      

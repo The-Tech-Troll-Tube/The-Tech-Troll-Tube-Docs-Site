@@ -1,8 +1,9 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'The Tech Troll Tube',
+  tagline: 'Troll The Tech!',
+  //url: 'https://your-docusaurus-test-site.com',
+  url: 'https://the-tech-troll-tube.github.io/The-Tech-Troll-Tube-Docs-Site/docs/tutorial-basics/create-a-page/',
 //   baseUrl: '/',
   baseUrl: '/The-Tech-Troll-Tube-Docs-Site/',
   onBrokenLinks: 'throw',
@@ -12,7 +13,7 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'The Tech Troll Tube',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',

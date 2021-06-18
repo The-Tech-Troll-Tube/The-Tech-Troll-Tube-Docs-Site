@@ -1,1 +1,0 @@
-(self.webpackChunkthe_tech_troll_tube_website=self.webpackChunkthe_tech_troll_tube_website||[]).push([[633],{6232:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/blog/tags/facebook"}')}}]);

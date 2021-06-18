@@ -20,7 +20,7 @@ module.exports = {
         alt: 'The Tech Troll Tube Logo',
 //        src: 'img/logo.svg',
         src: 'img/TheTechTrollTube-R.png',
-        srcDark: 'img/TheTechTrollTube-R.png',  
+        srcDark: 'img/TheTechTrollTube-D.png',  
       },
       items: [
         {

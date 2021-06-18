@@ -22,21 +22,72 @@ module.exports = {
         src: 'img/TheTechTrollTube-R.png',
         srcDark: 'img/TheTechTrollTube-D.png',  
       },
-      items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Tutorial',
-        },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
-    },
+    //   items: [
+    //     {
+    //       type: 'doc',
+    //       docId: 'intro',
+    //       position: 'left',
+    //       label: 'Tutorial',
+    //     },
+    //     {to: '/blog', label: 'Blog', position: 'left'},
+    //     {
+    //       href: 'https://github.com/facebook/docusaurus',
+    //       label: 'GitHub',
+    //       position: 'right',
+    //     },
+    //   ],
+    // },
+    items: [
+      {
+        label: 'WIZnet Cloud',
+        position: 'right', // or 'left'
+        items: [
+          {
+            label: 'HOME',
+            to: '/',
+          },
+           {
+             label: 'Introduction ➤',
+              to: '/docs/intro',
+              to: 'intro',              
+             to: '/',
+           },
+            {
+              label: 'Products ➤',
+              to: '/',
+            },
+          {
+            label: ' Cloud ➤',
+            to: '/docs/intro',
+          },
+          {
+            label: ' site ➤',
+            to: '/docs/intro',
+          },
+          {
+            label: ' site ➤',
+            to: '/docs/intro',
+          },
+          {
+            label: 'TTT Products ➤',
+            to: '/docs/intro',
+          },
+          // ... more items
+        ],
+      },
+       // {to: 'docs/introduction', label: 'INTRODUCTION TO DOCUMENTS ➤', position: 'right'},
+       // {to: 'docs/download', label: 'Download', position: 'right'},
+       {href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA', label: 'NEWLINKS', position: 'right'},
+       {href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA', label: 'TTT', position: 'right'},
+
+//        {to: 'blog', label: 'Blog', position: 'left'},
+      {
+        href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',
+        label: 'YT',
+        position: 'right',
+      },
+    ],
+  },
     footer: {
       style: 'dark',
       links: [
@@ -80,7 +131,9 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+//      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} The Tech Troll Tube, Built with Docusaurus.`,
+
     },
   },
   plugins: ['./PreventTrailingSlash/PreventTrailingSlashPlugin'],
@@ -89,6 +142,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+//          routeBasePath: '/', /////////////////////////////////used in docs only mode          
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
@@ -100,6 +154,10 @@ module.exports = {
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
+        //////////////////////////////////////////////////////////////////////////////////////////// AS OF 26-05-2021 2.0.0-beta.0 this is not working !
+//         sitemap:{
+//         trailingSlash: false
+//         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

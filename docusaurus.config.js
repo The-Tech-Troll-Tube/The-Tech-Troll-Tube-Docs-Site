@@ -126,7 +126,7 @@ module.exports = {
 //        {to: 'blog', label: 'Blog', position: 'left'},
       {
         href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA?sub_confirmation=1',
-        label: 'SUBSCRIBE TO THIS CHANNEL',
+        label: 'SUBSCRIBE!',
         position: 'right',
       },
     ],

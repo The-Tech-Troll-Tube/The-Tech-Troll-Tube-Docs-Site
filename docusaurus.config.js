@@ -49,7 +49,7 @@ module.exports = {
     // },
     items: [
       {
-        label: 'VIDEO LINKS',
+        label: 'TECH-VIDEOS',
         position: 'right', // or 'left'
         items: [
           {
@@ -58,9 +58,42 @@ module.exports = {
           },
            {
              label: 'Introduction ➤',
-              to: '/docs/intro',
-              to: 'intro',              
-             to: '/',
+              to: '/docs/intro',             
+           },
+            {
+              label: 'Products ➤',
+              to: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',
+            },
+          {
+            label: ' Cloud ➤',
+            to: '/docs/intro',
+          },
+          {
+            label: ' site ➤',
+            to: '/docs/intro',
+          },
+          {
+            label: ' site ➤',
+            to: '/docs/intro',
+          },
+          {
+            label: 'TTT Products ➤',
+            to: '/docs/intro',
+          },
+          // ... more items
+        ],
+      },
+      {
+        label: 'GAME-VIDEOS',
+        position: 'right', // or 'left'
+        items: [
+          {
+            label: 'HOME',
+            to: '/',
+          },
+           {
+             label: 'Introduction ➤',
+              to: '/docs/intro',          
            },
             {
               label: 'Products ➤',

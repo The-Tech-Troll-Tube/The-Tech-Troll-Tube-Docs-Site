@@ -49,7 +49,7 @@ module.exports = {
     // },
     items: [
       {
-        label: 'WIZnet Cloud',
+        label: 'VIDEO LINKS',
         position: 'right', // or 'left'
         items: [
           {

@@ -6,7 +6,8 @@ module.exports = {
   url: 'https://the-tech-troll-tube.github.io/The-Tech-Troll-Tube-Docs-Site/docs/tutorial-basics/create-a-page/',
 //   baseUrl: '/',
   baseUrl: '/The-Tech-Troll-Tube-Docs-Site/',
-  onBrokenLinks: 'throw',
+  //onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/TheTechTrollTube-R.png',
   organizationName: 'facebook', // Usually your GitHub org/user name.

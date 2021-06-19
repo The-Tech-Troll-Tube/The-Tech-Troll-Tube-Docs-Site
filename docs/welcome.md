@@ -5,6 +5,6 @@ sidebar_position: 1
 
 # Welcome to The Tech Troll Tube Website!
 
-![](static/img/Channel_Preview.png)
+![](../static/img/channel_preview.png)
 
 ### The Single Channel for Tech and Games!

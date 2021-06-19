@@ -7,4 +7,6 @@ sidebar_position: 1
 
 ![](../static/img/channel_preview.png)
 
-### The Single Channel for Tech and Games!
+## The Single Channel for Tech and Games!
+
+### Remaining Content Under Construction

@@ -57,30 +57,33 @@ module.exports = {
           //   label: 'HOME',
           //   to: '/',
           // },
+          {
+            label: 'Windows 11 is Free ➤',
+            href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',          
+          },
            {
-             label: 'Introduction ➤',
-              to: '/docs/intro',             
+             label: 'Try Windows 11 Dev on VMware ➤',
+             href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',          
            },
             {
-              label: 'Products[LINK CHECK] ➤',
+              label: 'Install Windows 11 Dev on VMware ➤',
               href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',
             },
-          {
-            label: ' Cloud ➤',
-            to: '/docs/intro',
-          },
-          {
-            label: ' site ➤',
-            to: '/docs/intro',
-          },
-          {
-            label: ' site ➤',
-            to: '/docs/intro',
-          },
-          {
-            label: 'TTT Products ➤',
-            to: '/docs/intro',
-          },
+            {
+              label: 'Windows 11 Dev Preview ➤',
+              href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',
+            },
+
+            {
+              label: 'Windows 11 Activator Toolkit  ➤',
+              href: 'https://github.com/The-Tech-Troll-Tube/Windows-11-Dev/archive/refs/heads/main.zip',
+            },
+            {
+              label: 'Install MAC OS X Catalina 10.15.6 on Windows PC [VMware]  ➤',
+              href: 'https://youtu.be/hCEvzEvUMuA',
+            },
+
+
           // ... more items
         ],
       },
@@ -88,41 +91,25 @@ module.exports = {
         label: 'GAME-VIDEOS',
         position: 'right', // or 'left'
         items: [
-          {
-            label: 'HOME',
-            to: '/',
-          },
            {
-             label: 'Introduction ➤',
-              to: '/docs/welcome',          
+             label: 'Install COD Mobile on PC ➤',
+             href: 'https://www.youtube.com/watch?v=1RF6C5WP6d4',          
            },
             {
-              label: 'Products ➤',
-              to: '/',
+              label: 'ZERO DEATH !! [0 DEATH] Call Of Duty Team Death Match !! ➤',
+              href: 'https://youtu.be/J7Z1WEggAxw', 
             },
           {
-            label: ' Cloud ➤',
-            to: '/docs/welcome',
-          },
-          {
-            label: ' site ➤',
-            to: '/docs/welcome',
-          },
-          {
-            label: ' site ➤',
-            to: '/docs/welcome',
-          },
-          {
-            label: 'TTT Products ➤',
-            to: '/docs/welcome',
+            label: ' GTA 5 | MICHAEL TOURS TO VICE CITY | GTA V | GTA MODS ➤',
+            href: 'https://youtu.be/gyjfoWE8uD0', 
           },
           // ... more items
         ],
       },
        // {to: 'docs/introduction', label: 'INTRODUCTION TO DOCUMENTS ➤', position: 'right'},
        // {to: 'docs/download', label: 'Download', position: 'right'},
-       {href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA', label: 'NEWLINKS', position: 'right'},
-       {href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA', label: 'TTT', position: 'right'},
+       //{href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA', label: 'NEWLINKS', position: 'right'},
+       //{href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA', label: 'TTT', position: 'right'},
 
 //        {to: 'blog', label: 'Blog', position: 'left'},
       {

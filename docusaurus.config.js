@@ -93,7 +93,7 @@ module.exports = {
           },
            {
              label: 'Introduction ➤',
-              to: '/docs/intro',          
+              to: '/docs/welcome',          
            },
             {
               label: 'Products ➤',
@@ -101,19 +101,19 @@ module.exports = {
             },
           {
             label: ' Cloud ➤',
-            to: '/docs/intro',
+            to: '/docs/welcome',
           },
           {
             label: ' site ➤',
-            to: '/docs/intro',
+            to: '/docs/welcome',
           },
           {
             label: ' site ➤',
-            to: '/docs/intro',
+            to: '/docs/welcome',
           },
           {
             label: 'TTT Products ➤',
-            to: '/docs/intro',
+            to: '/docs/welcome',
           },
           // ... more items
         ],
@@ -139,7 +139,7 @@ module.exports = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/docs/welcome',
             },
           ],
         },

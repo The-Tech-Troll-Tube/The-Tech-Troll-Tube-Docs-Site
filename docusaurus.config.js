@@ -75,11 +75,11 @@ module.exports = {
             },
 
             {
-              label: 'Windows 11 Activator Toolkit  ➤',
+              label: 'Download Windows 10/11 Activator Toolkit ➤',
               href: 'https://github.com/The-Tech-Troll-Tube/Windows-11-Dev/archive/refs/heads/main.zip',
             },
             {
-              label: 'Install MAC OS X Catalina 10.15.6 on Windows PC [VMware]  ➤',
+              label: 'Install MAC OS X Catalina 10.15.6 on Windows PC [VMware] ➤',
               href: 'https://youtu.be/hCEvzEvUMuA',
             },
 

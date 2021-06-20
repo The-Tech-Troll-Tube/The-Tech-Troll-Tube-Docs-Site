@@ -71,7 +71,7 @@ module.exports = {
             },
             {
               label: 'Windows 11 Dev Preview ➤',
-              href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',
+              href: 'https://www.youtube.com/watch?v=TDlmrAh5SAE',
             },
 
             {

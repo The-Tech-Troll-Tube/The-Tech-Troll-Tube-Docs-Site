@@ -58,19 +58,23 @@ module.exports = {
           //   to: '/',
           // },
           {
-            label: 'Here is why Windows 11 is a Free Upgrade ➤',
+            label: 'Windows 11 Wallpapers ➤',
+            href: 'static/img/Windows-11-Wallpapers.zip',          
+          },
+          {
+            label: 'Windows 11 is a Free Upgrade, here is why !! ➤',
             href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',          
           },
            {
-             label: 'Try Windows 11 Dev on VMware ➤',
-             href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',          
+             label: 'Experience Windows 11 in Just 3 Steps ➤',
+             href: 'https://www.youtube.com/watch?v=JbH0J0XypOk',          
            },
             {
-              label: 'Install Windows 11 Dev on VMware ➤',
-              href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',
+              label: 'Install Windows 11 and Activate it on VMware ➤',
+              href: 'https://www.youtube.com/watch?v=qu5xOve-v8g',
             },
             {
-              label: 'Windows 11 Dev Preview ➤',
+              label: 'WINDOWS 11 Looks, Feel and Features ➤',
               href: 'https://www.youtube.com/watch?v=TDlmrAh5SAE',
             },
 

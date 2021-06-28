@@ -59,7 +59,7 @@ module.exports = {
           // },
           {
             label: 'Windows 11 Wallpapers ➤',
-            href: 'https://github.com/The-Tech-Troll-Tube/The-Tech-Troll-Tube-Docs-Site/blob/main/static/img/Windows-11-Wallpapers.zip?export=download',          
+            href: 'https://github.com/The-Tech-Troll-Tube/The-Tech-Troll-Tube-Docs-Site/raw/main/static/img/Windows-11-Wallpapers.zip',          
           },
           {
             label: 'Windows 11 is a Free Upgrade, here is why !! ➤',

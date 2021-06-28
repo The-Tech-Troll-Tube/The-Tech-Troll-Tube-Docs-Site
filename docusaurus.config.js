@@ -59,7 +59,7 @@ module.exports = {
           // },
           {
             label: 'Windows 11 Wallpapers ➤',
-            href: 'static/img/Windows-11-Wallpapers.zip',          
+            to: 'static/img/Windows-11-Wallpapers.zip',          
           },
           {
             label: 'Windows 11 is a Free Upgrade, here is why !! ➤',

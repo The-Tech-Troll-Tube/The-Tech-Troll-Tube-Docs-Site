@@ -17,8 +17,9 @@ module.exports = {
     announcementBar: {
       id: 'support_us', // Any value that will identify this message.
       content:
-        'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
-      backgroundColor: '#fafbfc', // Defaults to `#fff`.
+       // 'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
+       'Will be seperating the Download Links and Video Links soon! Stay Tuned! Also you can Download the ORIGINAL Windows 11 Wallpapers Here inside TECH-VIDEOS AND DOWNLOAD LINKS Dropdown',
+       backgroundColor: '#fafbfc', // Defaults to `#fff`.
       textColor: '#091E42', // Defaults to `#000`.
       isCloseable: false, // Defaults to `true`.
     },

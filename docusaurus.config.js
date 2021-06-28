@@ -50,7 +50,7 @@ module.exports = {
     // },
     items: [
       {
-        label: 'TECH-VIDEOS',
+        label: 'TECH-VIDEOS AND DOWNLOAD LINKS',
         position: 'right', // or 'left'
         items: [
           // {
@@ -58,7 +58,7 @@ module.exports = {
           //   to: '/',
           // },
           {
-            label: 'Windows 11 Wallpapers ➤',
+            label: 'Download Windows 11 Wallpapers ➤',
             href: 'https://github.com/The-Tech-Troll-Tube/The-Tech-Troll-Tube-Docs-Site/raw/main/static/img/Windows-11-Wallpapers.zip',          
           },
           {
@@ -66,7 +66,7 @@ module.exports = {
             href: 'https://www.youtube.com/watch?v=NSSH8qDEuJM',          
           },
            {
-             label: 'Experience Windows 11 in Just 3 Steps ➤',
+             label: 'Experience Windows 11 in Just 3 Steps !! ➤',
              href: 'https://www.youtube.com/watch?v=JbH0J0XypOk',          
            },
             {

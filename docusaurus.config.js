@@ -63,7 +63,7 @@ module.exports = {
           },
           {
             label: 'Windows 11 is a Free Upgrade, here is why !! ➤',
-            href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA',          
+            href: 'https://www.youtube.com/watch?v=NSSH8qDEuJM',          
           },
            {
              label: 'Experience Windows 11 in Just 3 Steps ➤',

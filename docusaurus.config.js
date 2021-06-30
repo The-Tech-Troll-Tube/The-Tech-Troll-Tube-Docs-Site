@@ -18,7 +18,7 @@ module.exports = {
       id: 'banner', // Any value that will identify this message.
       content:
        // 'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
-       ' I will be seperating the Download Links and Video Links soon! Stay Tuned! Also you can Download the ORIGINAL Windows 11 Wallpapers Here inside TECH-VIDEOS AND DOWNLOAD LINKS Dropdown',
+       'I have Seperated Tech Videos and DOWNLOAD LINKS Dropdown ! You can now download Windowws 11 original walpapers from DOWNLOAD LINKS',
        backgroundColor: '#091E42', // Defaults to `#fff`.
       textColor: '#fafbfc', // Defaults to `#000`.
       isCloseable: false, // Defaults to `true`.
@@ -61,17 +61,13 @@ module.exports = {
     // },
     items: [
       {
-        label: 'TECH-VIDEOS AND DOWNLOAD LINKS',
+        label: 'TECH-VIDEOS',
         position: 'right', // or 'left'
         items: [
           // {
           //   label: 'HOME',
           //   to: '/',
           // },
-          {
-            label: 'Download Windows 11 Wallpapers ➤',
-            href: 'https://github.com/The-Tech-Troll-Tube/The-Tech-Troll-Tube-Docs-Site/raw/main/static/img/Windows-11-Wallpapers.zip',          
-          },
           {
             label: 'Windows 11 is a Free Upgrade, here is why !! ➤',
             href: 'https://www.youtube.com/watch?v=NSSH8qDEuJM',          
@@ -88,11 +84,7 @@ module.exports = {
               label: 'WINDOWS 11 Looks, Feel and Features ➤',
               href: 'https://www.youtube.com/watch?v=TDlmrAh5SAE',
             },
-
-            {
-              label: 'Download Windows 10/11 Activator Toolkit ➤',
-              href: 'https://github.com/The-Tech-Troll-Tube/Windows-11-Dev/archive/refs/heads/main.zip',
-            },
+          
             {
               label: 'Install MAC OS X Catalina 10.15.6 on Windows PC [VMware] ➤',
               href: 'https://youtu.be/hCEvzEvUMuA',
@@ -101,7 +93,7 @@ module.exports = {
 
           // ... more items
         ],
-      },
+      },     
       {
         label: 'GAME-VIDEOS',
         position: 'right', // or 'left'
@@ -121,6 +113,21 @@ module.exports = {
           // ... more items
         ],
       },
+      {
+        label: 'DOWNLOAD LINKS',
+        position: 'right', // or 'left'
+        items: [
+          {
+            label: 'Download Windows 11 Wallpapers ➤',
+            href: 'https://github.com/The-Tech-Troll-Tube/The-Tech-Troll-Tube-Docs-Site/raw/main/static/img/Windows-11-Wallpapers.zip',          
+          },
+          {
+            label: 'Download Windows 10/11 Activator Toolkit ➤',
+            href: 'https://github.com/The-Tech-Troll-Tube/Windows-11-Dev/archive/refs/heads/main.zip',
+          },
+          // ... more items
+        ],
+      }, 
        // {to: 'docs/introduction', label: 'INTRODUCTION TO DOCUMENTS ➤', position: 'right'},
        // {to: 'docs/download', label: 'Download', position: 'right'},
        //{href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA', label: 'NEWLINKS', position: 'right'},

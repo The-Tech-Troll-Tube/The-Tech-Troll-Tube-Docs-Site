@@ -26,7 +26,7 @@ module.exports = {
     ////////////////////////////////////////////////////////
     hideableSidebar: true,
     colorMode: {
-      defaultMode: 'light',
+      defaultMode: 'dark',
       disableSwitch: false,
       respectPrefersColorScheme: false,
       switchConfig: {

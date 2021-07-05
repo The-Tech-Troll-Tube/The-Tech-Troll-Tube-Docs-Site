@@ -204,8 +204,8 @@ module.exports = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         //////////////////////////////////////////////////////////////////////////////////////////// AS OF 26-05-2021 2.0.0-beta.0 this is not working !
 //         sitemap:{

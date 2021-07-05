@@ -158,15 +158,15 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-            //  href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
               label: 'Discord',
-            //  href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discordapp.com/invite/docusaurus',
             },
             {
               label: 'Twitter',
-            //  href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/docusaurus',
             },
           ],
         },
@@ -175,11 +175,11 @@ module.exports = {
           items: [
             {
               label: 'Blog',
-            //  to: '/blog',
+              to: '/blog',
             },
             {
               label: 'GitHub',
-             // href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },
@@ -198,15 +198,15 @@ module.exports = {
           routeBasePath: '/', /////////////////////////////////used in docs only mode          
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/edit/master/website/',
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/',
         },
-        // blog: {
-        //   showReadingTime: true,
-        //   // Please change this to your repo.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        // },
+        blog: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+        },
         //////////////////////////////////////////////////////////////////////////////////////////// AS OF 26-05-2021 2.0.0-beta.0 this is not working !
 //         sitemap:{
 //         trailingSlash: false

@@ -158,7 +158,7 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: '',
+              links: '',
               //href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {

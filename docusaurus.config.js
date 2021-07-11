@@ -69,6 +69,10 @@ module.exports = {
           //   to: '/',
           // },
           {
+            label: 'Unboxing iPad Magic Keyboard ! First Look !! ➤',
+            href: 'https://youtu.be/36_F5biyU5s',          
+          },
+          {
             label: 'Windows 11 is a Free Upgrade, here is why !! ➤',
             href: 'https://www.youtube.com/watch?v=NSSH8qDEuJM',          
           },

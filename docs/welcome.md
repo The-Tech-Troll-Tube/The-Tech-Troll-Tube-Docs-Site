@@ -3,7 +3,7 @@ slug: /
 sidebar_position: 1
 ---
 
-# Welcome to The Tech Troll Tube Website!
+# Welcome to New The Tech Troll Tube Website!
 
 ![](../static/img/channel_preview.png)
 

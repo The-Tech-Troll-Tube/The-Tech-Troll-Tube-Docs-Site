@@ -61,7 +61,7 @@ module.exports = {
     // },
     items: [
       {
-        label: 'TECH-VIDEOS',
+        label: 'TECH-VIDEOS ',
         position: 'right', // or 'left'
         items: [
           // {
@@ -99,7 +99,7 @@ module.exports = {
         ],
       },     
       {
-        label: 'GAME-VIDEOS',
+        label: 'GAME-VIDEOS ',
         position: 'right', // or 'left'
         items: [
            {
@@ -118,7 +118,7 @@ module.exports = {
         ],
       },
       {
-        label: 'DOWNLOAD LINKS',
+        label: 'DOWNLOAD LINKS ',
         position: 'right', // or 'left'
         items: [
           {

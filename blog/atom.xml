@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://the-tech-troll-tube.github.io/The-Tech-Troll-Tube-Docs-Site/docs/tutorial-basics/create-a-page/blog</id>
+    <id>https://the-tech-troll-tube.github.io/The-Tech-Troll-Tube-Docs-Site/docs/tutorial-basics/create-a-page/The-Tech-Troll-Tube-Docs-Site/blog</id>
     <title>The Tech Troll Tube Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://the-tech-troll-tube.github.io/The-Tech-Troll-Tube-Docs-Site/docs/tutorial-basics/create-a-page/blog"/>
+    <link rel="alternate" href="https://the-tech-troll-tube.github.io/The-Tech-Troll-Tube-Docs-Site/docs/tutorial-basics/create-a-page/The-Tech-Troll-Tube-Docs-Site/blog"/>
     <subtitle>The Tech Troll Tube Blog</subtitle>
-    <icon>https://the-tech-troll-tube.github.io/The-Tech-Troll-Tube-Docs-Site/docs/tutorial-basics/create-a-page/img/TheTechTrollTube-R.png</icon>
+    <icon>https://the-tech-troll-tube.github.io/The-Tech-Troll-Tube-Docs-Site/docs/tutorial-basics/create-a-page/The-Tech-Troll-Tube-Docs-Site/img/TheTechTrollTube-R.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>

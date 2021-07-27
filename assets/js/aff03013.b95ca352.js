@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_tech_troll_tube_website=self.webpackChunkthe_tech_troll_tube_website||[]).push([[518],{736:function(e){e.exports=JSON.parse('{"allTagsPath":"/The-Tech-Troll-Tube-Docs-Site/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/The-Tech-Troll-Tube-Docs-Site/blog/tags/docusaurus"}')}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunkthe_tech_troll_tube_website=self.webpackChunkthe_tech_troll_tube_website||[]).push([[39],{249:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/The-Tech-Troll-Tube-Docs-Site/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/The-Tech-Troll-Tube-Docs-Site/blog/tags/hello"}')}}]);

@@ -69,28 +69,28 @@ module.exports = {
           //   to: '/',
           // },
           {
-            label: 'Unboxing iPad Magic Keyboard ! First Look !! ➤',
+            label: 'Unboxing iPad Magic Keyboard ! First Look !!',
             href: 'https://youtu.be/36_F5biyU5s',          
           },
           {
-            label: 'Windows 11 is a Free Upgrade, here is why !! ➤',
+            label: 'Windows 11 is a Free Upgrade, here is why !!',
             href: 'https://www.youtube.com/watch?v=NSSH8qDEuJM',          
           },
            {
-             label: 'Experience Windows 11 in Just 3 Steps !! ➤',
+             label: 'Experience Windows 11 in Just 3 Steps !!',
              href: 'https://www.youtube.com/watch?v=JbH0J0XypOk',          
            },
             {
-              label: 'Install Windows 11 and Activate it on VMware ➤',
+              label: 'Install Windows 11 and Activate it on VMware',
               href: 'https://www.youtube.com/watch?v=qu5xOve-v8g',
             },
             {
-              label: 'WINDOWS 11 Looks, Feel and Features ➤',
+              label: 'WINDOWS 11 Looks, Feel and Features',
               href: 'https://www.youtube.com/watch?v=TDlmrAh5SAE',
             },
           
             {
-              label: 'Install MAC OS X Catalina 10.15.6 on Windows PC [VMware] ➤',
+              label: 'Install MAC OS X Catalina 10.15.6 on Windows PC [VMware]',
               href: 'https://youtu.be/hCEvzEvUMuA',
             },
 
@@ -103,15 +103,15 @@ module.exports = {
         position: 'right', // or 'left'
         items: [
            {
-             label: 'Install COD Mobile on PC ➤',
+             label: 'Install COD Mobile on PC',
              href: 'https://www.youtube.com/watch?v=1RF6C5WP6d4',          
            },
             {
-              label: 'ZERO DEATH !! [0 DEATH] Call Of Duty Team Death Match !! ➤',
+              label: 'ZERO DEATH !! [0 DEATH] Call Of Duty Team Death Match !!',
               href: 'https://youtu.be/J7Z1WEggAxw', 
             },
           {
-            label: ' GTA 5 | MICHAEL TOURS TO VICE CITY | GTA V | GTA MODS ➤',
+            label: ' GTA 5 | MICHAEL TOURS TO VICE CITY | GTA V | GTA MODS',
             href: 'https://youtu.be/gyjfoWE8uD0', 
           },
           // ... more items
@@ -122,11 +122,11 @@ module.exports = {
         position: 'right', // or 'left'
         items: [
           {
-            label: 'Download Windows 11 Wallpapers ➤',
+            label: 'Download Windows 11 Wallpapers',
             href: 'https://github.com/The-Tech-Troll-Tube/The-Tech-Troll-Tube-Docs-Site/raw/main/static/img/Windows-11-Wallpapers.zip',          
           },
           {
-            label: 'Download Windows 10/11 Activator Toolkit ➤',
+            label: 'Download Windows 10/11 Activator Toolkit',
             href: 'https://github.com/The-Tech-Troll-Tube/Windows-11-Dev/archive/refs/heads/main.zip',
           },
           // ... more items
@@ -140,7 +140,7 @@ module.exports = {
 //        {to: 'blog', label: 'Blog', position: 'left'},
       {
         href: 'https://www.youtube.com/channel/UCU0XJuh2J_NwMwoFETrM_UA?sub_confirmation=1',
-        label: 'SUBSCRIBE ➤',
+        label: 'SUBSCRIBE',
         position: 'right',
       },
     ],
@@ -193,7 +193,7 @@ module.exports = {
 
     },
   },
-  // plugins: ['./PreventTrailingSlash/PreventTrailingSlashPlugin'],
+  plugins: ['./PreventTrailingSlash/PreventTrailingSlashPlugin'],
   presets: [
     [
       '@docusaurus/preset-classic',

@@ -193,7 +193,7 @@ module.exports = {
 
     },
   },
-  plugins: ['./PreventTrailingSlash/PreventTrailingSlashPlugin'],
+  // plugins: ['./PreventTrailingSlash/PreventTrailingSlashPlugin'],
   presets: [
     [
       '@docusaurus/preset-classic',

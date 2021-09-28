@@ -18,7 +18,7 @@ module.exports = {
       id: 'banner', // Any value that will identify this message.
       content:
        // 'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
-       'You can now download Windows 11 original walpapers from the DOWNLOAD LINKS Dropdown below !',
+       'You can now download Windows 11 Official Compactibility Check Tool Under Download Links',
        backgroundColor: '#091E42', // Defaults to `#fff`.
       textColor: '#fafbfc', // Defaults to `#000`.
       isCloseable: false, // Defaults to `true`.
@@ -128,6 +128,10 @@ module.exports = {
           {
             label: 'Download Windows 10/11 Activator Toolkit ',
             href: 'https://github.com/The-Tech-Troll-Tube/Windows-11-Dev/archive/refs/heads/main.zip',
+          },
+          {
+            label: 'Download Windows 11 Official Compactibility Check Tool ',
+            href: 'https://github.com/The-Tech-Troll-Tube/The-Tech-Troll-Tube-Docs-Site/raw/main/static/img/WindowsPCHealthCheckSetup.msi',          
           },
           // ... more items
         ],

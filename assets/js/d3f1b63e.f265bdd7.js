@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_tech_troll_tube_website=self.webpackChunkthe_tech_troll_tube_website||[]).push([[721],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

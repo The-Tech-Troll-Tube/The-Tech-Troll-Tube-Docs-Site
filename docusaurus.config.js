@@ -25,16 +25,22 @@ module.exports = {
       isCloseable: false, // Defaults to `true`.
     },
     ////////////////////////////////////////////////////////
-    hideableSidebar: true,
-    colorMode: {
-      defaultMode: 'dark',
-      disableSwitch: false,
-      respectPrefersColorScheme: false,
-      switchConfig: {
-        darkIcon: '\u{26c8}',
-        lightIcon: '\u{1f324}',
+    // hideableSidebar: true, //got moved
+    docs: {
+      sidebar: {
+        hideable: true,
       },
-    },      
+    },
+    ///deprecated
+    // colorMode: {
+    //   defaultMode: 'dark',
+    //   disableSwitch: false,
+    //   respectPrefersColorScheme: false,
+    //   switchConfig: {
+    //     darkIcon: '\u{26c8}',
+    //     lightIcon: '\u{1f324}',
+    //   },
+    // },      
     navbar: {
 //      hideOnScroll: true,
 //      style: 'primary', // primary || dark      
